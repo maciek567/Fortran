@@ -1,5 +1,5 @@
 module naivemath
-	implicit none
+implicit none
 
 contains
 

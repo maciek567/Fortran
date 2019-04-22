@@ -1,5 +1,5 @@
 module bettermath
-	implicit none
+implicit none
 
 contains
 
