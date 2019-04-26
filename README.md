@@ -1,4 +1,4 @@
 # Fortran - Task 1
 matrices multiplication
 
-![Gnuplot - time measurement (real 4)] (/res/wykres4.pdf)
+<img src="https://github.com/maciek567/Fortran/blob/master/res/wykres4.pdf" align="center" alt="Gnuplot"/>
