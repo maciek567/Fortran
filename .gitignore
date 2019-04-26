@@ -1,5 +1,5 @@
 zadanie1.pdf
 src/test.F90
-src/main(procedure).F90
+src/main_procedure.F90
 src/*.out
 src/*.mod
